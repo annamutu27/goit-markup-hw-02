@@ -104,15 +104,15 @@ ul {
     background-color: #F4F4FD;
 }
 
-.subtitle1 {
+.subtitle-ad {
     display: none;
 }
 
-.items1 {
+.items-ad {
     background-color: #FFFFFF;
 }
 
-.heading1 {
+.heading-ad {
     text-transform: capitalize;
     font-weight: 500;
     font-size: 20px;
@@ -121,7 +121,7 @@ ul {
     color: #2e2f42;
 }
 
-.text1 {
+.text-ad {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
@@ -131,11 +131,11 @@ ul {
     background-color: #F4F4FD;
 }
 
-.items-2 {
+.items-team {
     background-color: #FFFFFF;
 }
 
-.subtitle2 {
+.subtitle-team {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -145,7 +145,7 @@ ul {
     text-transform: capitalize;
 }
 
-.heading2 {
+.heading-team {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -154,7 +154,7 @@ ul {
     color: #2e2f42;
 }
 
-.text2 {
+.text-team {
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
